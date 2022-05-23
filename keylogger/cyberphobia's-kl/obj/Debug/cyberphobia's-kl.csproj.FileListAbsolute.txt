@@ -1,0 +1,12 @@
+C:\Users\lukeh\Desktop\stuff\keylogger\cyberphobia's-kl\bin\Debug\cyberphobia's-kl.exe.config
+C:\Users\lukeh\Desktop\stuff\keylogger\cyberphobia's-kl\bin\Debug\cyberphobia's-kl.exe
+C:\Users\lukeh\Desktop\stuff\keylogger\cyberphobia's-kl\bin\Debug\cyberphobia's-kl.pdb
+C:\Users\lukeh\Desktop\stuff\keylogger\cyberphobia's-kl\obj\Debug\cyberphobia's-kl.csproj.AssemblyReference.cache
+C:\Users\lukeh\Desktop\stuff\keylogger\cyberphobia's-kl\obj\Debug\cyberphobia's-kl.csproj.SuggestedBindingRedirects.cache
+C:\Users\lukeh\Desktop\stuff\keylogger\cyberphobia's-kl\obj\Debug\cyberphobia's-kl.csproj.CoreCompileInputs.cache
+C:\Users\lukeh\Desktop\stuff\keylogger\cyberphobia's-kl\obj\Debug\cyberphobia's-kl.exe
+C:\Users\lukeh\Desktop\stuff\keylogger\cyberphobia's-kl\obj\Debug\cyberphobia's-kl.pdb
+C:\Users\lukeh\Desktop\stuff\keylogger\cyberphobia's-kl\bin\Debug\Gma.System.MouseKeyHook.dll
+C:\Users\lukeh\Desktop\stuff\keylogger\cyberphobia's-kl\obj\Debug\cyberphobia's-kl.csproj.CopyComplete
+C:\Users\lukeh\Desktop\stuff\keylogger\cyberphobia's-kl\obj\Debug\cyberphobia_s_kl.pauser.resources
+C:\Users\lukeh\Desktop\stuff\keylogger\cyberphobia's-kl\obj\Debug\cyberphobia's-kl.csproj.GenerateResource.cache
